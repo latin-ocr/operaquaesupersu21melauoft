@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu21melauoft/operaquaesupersu21melauoft_0573.png"; bbox 0 0 2358 2933; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1787 1228 1977 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1787 1228 1977 1974">
+     <span class='ocr_line' id='line_1_1' title="bbox 1929 1229 1977 1972; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1944 1229 1977 1281; x_wconf 83' lang='lat' dir='ltr'>LL</span> <span class='ocrx_word' id='word_1_2' title='bbox 1929 1579 1974 1874; x_wconf 70' lang='lat' dir='ltr'>Melanchthon‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1937 1906 1969 1972; x_wconf 73' lang='lat' dir='ltr'>Phi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1880 1228 1927 1974; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 1894 1228 1927 1377; x_wconf 76' lang='lat' dir='ltr'>M5175B</span> <span class='ocrx_word' id='word_1_5' title='bbox 1882 1681 1921 1804; x_wconf 79' lang='lat' dir='ltr'><strong>Opera</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1880 1833 1911 1928; x_wconf 68' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_7' title='bbox 1884 1958 1909 1974; x_wconf 76' lang='grc' dir='ltr'>ε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1835 1579 1874 1923; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 1835 1579 1874 1923; x_wconf 65' lang='lat' dir='ltr'><strong>Bretsehneider.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1787 1679 1824 1848; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 1787 1679 1824 1848; x_wconf 72' lang='lat' dir='ltr'>V01.21.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1147 1335 1155 2015">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1147 1335 1155 2015">
+     <span class='ocr_line' id='line_1_5' title="bbox 1147 1335 1155 2015; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 1147 1335 1155 2015; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1089 1213 1759 2770">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1089 1213 1759 2770">
+     <span class='ocr_line' id='line_1_6' title="bbox 1089 1213 1759 2770; textangle 270"><span class='ocrx_word' id='word_1_11' title='bbox 1089 1213 1759 2770; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
